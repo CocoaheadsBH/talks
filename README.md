@@ -16,3 +16,6 @@ Vale frizar que a data que deseja apresentar pode não bater com a agenda, entã
 
 ## Palestras anteriores
 Caso você esteja procurando por palestras anteriores, poderá encontrar [aqui!](https://github.com/CocoaheadsBH/talks/blob/master/past-talks.md)
+
+## Duvidas
+Para qualquer tipo de dúvida, não exite em abrir uma issue!
