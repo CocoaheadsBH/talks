@@ -8,4 +8,8 @@ Descreva um pouco os pontos que você quer comentar sobre a talk.
 Existe alguma data específica?
 
 # Dados do Apresentador
-Deixe aqui suas informações, como email e redes sociais.
+Nome:
+Onde trabalha:
+Email:
+Username no iOSDevBR:
+Redes sociais:
