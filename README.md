@@ -10,7 +10,7 @@ Com o intuito de engajar a comunidade, colocamos alguns temas predefinidos para 
 [Os temas estão disponíveis através das issues com label **Predefinida**](https://github.com/CocoaheadsBH/talks/labels/predefinida). Se você se quer dar uma estudada, preparar uma talk bacana e submeter para nós, **comente** na issue seu interesse. Atualize também o formulário da issue com as informações necessárias, como os seus dados e o que você deseja propor para a talk.
 
 ### Propondo novos temas
-Para propor novos temas, basta [criar uma nova issue](https://github.com/gabrieloliva/cocoaheadsBH/issues/new). Você terá que responder o quesionário que irá aparecer ao criar a issue. Esse questionário é necessário para podermos avaliar o que você pretende propor, quando deseja apresentar e também as suas informações.
+Para propor novos temas, basta [criar uma nova issue](https://github.com/cocoaheadsBH/talks/issues/new). Você terá que responder o quesionário que irá aparecer ao criar a issue. Esse questionário é necessário para podermos avaliar o que você pretende propor, quando deseja apresentar e também as suas informações.
 
 Vale frizar que a data que deseja apresentar pode não bater com a agenda, então tentaremos ver datas que sejam boas para o evento e também para você.
 
