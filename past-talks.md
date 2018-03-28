@@ -1,7 +1,7 @@
 # Palestras anteriores
 
 ### 28º CocoaTalks @ AppProva
-- [Programação Orientada a Protocolos](https://speakerdeck.com/paulogama/programacao-orientada-a-protocolos), por Paulo Gama
+- [Programação Orientada a Protocolos](https://speakerdeck.com/paulogama/programacao-orientada-a-protocolos), por Lilian Dias e Paulo Gama
 
 ### 27º CocoaTalks @ MaxMilhas
 - [Como deixar os meus apps mais seguros](https://speakerdeck.com/salmojunior/como-deixar-os-meus-apps-mais-seguros), por Salmo Junior
