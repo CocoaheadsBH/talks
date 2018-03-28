@@ -1,6 +1,7 @@
 # Palestras anteriores
 
 ### 28º CocoaTalks @ AppProva
+- [Login Mágico com Firebase Auth](https://docs.google.com/presentation/d/1xd8DYw4tGMVI1VbE6t0MV7FNlyq0582s6bfWSjouUig/edit?usp=sharing), por Victor de Assis
 - [Programação Orientada a Protocolos](https://speakerdeck.com/paulogama/programacao-orientada-a-protocolos), por Lilian Dias e Paulo Gama
 
 ### 27º CocoaTalks @ MaxMilhas
