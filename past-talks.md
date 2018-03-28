@@ -1,5 +1,8 @@
 # Palestras anteriores
 
+### 28º CocoaTalks @ AppProva
+- [Programação Orientada a Protocolos](https://speakerdeck.com/paulogama/programacao-orientada-a-protocolos), por Lilian Dias e Paulo Gama
+
 ### 27º CocoaTalks @ MaxMilhas
 - [Como deixar os meus apps mais seguros](https://speakerdeck.com/salmojunior/como-deixar-os-meus-apps-mais-seguros), por Salmo Junior
 
@@ -24,6 +27,7 @@
 
 ### 18º CocoaTalks @ AppProva
 - [Entregando código Swift com qualidade](https://speakerdeck.com/salmojunior/entregando-codigo-swift-com-qualidade), por Salmo Junior
+- [Ferramentas auxiliares para desenvolvimento mobile](https://speakerdeck.com/paulogama/ferramentas-auxiliares-para-desenvolvimento-mobile), por Paulo Gama
 
 ### 17º CocoaTalks @ CI&T
 - [Live stream](https://www.youtube.com/watch?v=tJnFNQTU3AY)
