@@ -1,5 +1,5 @@
 # CocoaHeads Belo Horizonte
-O intuinto desse diretório é organizar as talks que acontecem no evento. Qualquer pessoa pode submeter sua talk ou se voluntariar para fazer sobre um tema já disponível.
+O intuinto desse diretório é organizar as talks que acontecem no evento. Qualquer pessoa pode submeter sua talk ou se voluntariar para fazer sobre um tema já disponível, porém é muito importante estar ciente sobre o nosso [código de conduta](https://github.com/CocoaheadsBH/codigo-de-conduta)!
 
 ## Como palestrar
 Existem duas formas:
