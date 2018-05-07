@@ -2,7 +2,7 @@
 
 ### 29º CocoaTalks @ Zup
 - [Sorcery with Sourcery](https://github.com/marciliojrs/sorcery-with-sourcery), por Marcílio Júnior
-- UX for Dummies, por Guilherme Coelho
+- UX for Dummies(https://docs.google.com/presentation/d/1Rsz5Ws-6bLJLNwDl-G1YVLWW4c2FNSzOOp9cqNdQDmc/edit?usp=sharing), por Guilherme Coelho
 
 ### 28º CocoaTalks @ AppProva
 - [Login Mágico com Firebase Auth](https://docs.google.com/presentation/d/1xd8DYw4tGMVI1VbE6t0MV7FNlyq0582s6bfWSjouUig/edit?usp=sharing), por Victor de Assis
