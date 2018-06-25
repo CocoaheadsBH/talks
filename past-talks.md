@@ -1,7 +1,7 @@
 # Palestras anteriores
 
 ### 30º CocoaTalks @ Concrete
-- [Testes Instrumentados e Introdução ao KIF](https://github.com/marciliojrs/sorcery-with-sourcery), por João Pedro Souza
+- [Testes Instrumentados e Introdução ao KIF](https://speakerdeck.com/joaopedrok/testes-instrumentados-e-introducao-ao-kif), por João Pedro Souza
 
 ### 29º CocoaTalks @ Zup
 - [Sorcery with Sourcery](https://github.com/marciliojrs/sorcery-with-sourcery), por Marcílio Júnior
