@@ -1,7 +1,11 @@
 # Palestras anteriores
 
+### 32º CocoaTalks @ CI&T
+- [Arquitetura Limpa](https://pt.slideshare.net/hugonardo/arquitetura-limpa-32-cocoatalks-bh), por [Hugo Ferreira](https://github.com/hugonardo)
+    - O modelo aplicado utilizando eventos e Rx pode ser obtido [aqui](https://gist.github.com/hugonardo/c72e186cee44dbf552828f95d3ef6ec4)
+
 ### 30º CocoaTalks @ Concrete
-- [Utilizando Redux em suas aplicações com ReSwift](https://www.slideshare.net/VinciusSalmont/30-cocoaheads-bh-reswift)por Vinícius Salmont
+- [Utilizando Redux em suas aplicações com ReSwift](https://www.slideshare.net/VinciusSalmont/30-cocoaheads-bh-reswift), por Vinícius Salmont
 - [Testes Instrumentados e Introdução ao KIF](https://speakerdeck.com/joaopedrok/testes-instrumentados-e-introducao-ao-kif), por João Pedro Souza
 
 ### 29º CocoaTalks @ Zup
